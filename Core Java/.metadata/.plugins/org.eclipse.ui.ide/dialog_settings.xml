@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 8- Multithreading"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 7- File –I+O"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 6- Collection Framework"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 5- String Handling and Regular Expressions"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 4- Exception Handling"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 3- Abstract Class and Interface"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 1"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 1\bin\src\com"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments\Problem Statement 1\bin\src\com\book"/>
+			<item value="C:\Users\Sadiy\Downloads\Mphasis-Advanced-Training-Assignments-Core%20Java%20Assignments (1)\Problem Statement 1"/>
+		</list>
+	</section>
+</section>

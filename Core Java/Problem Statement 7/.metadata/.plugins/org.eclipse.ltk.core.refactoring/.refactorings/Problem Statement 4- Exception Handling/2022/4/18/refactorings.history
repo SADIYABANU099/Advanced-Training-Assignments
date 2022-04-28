@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;BankAccount.java&apos; to &apos;Problem statement 4/src/com.bankaccount&apos;&#x0D;&#x0A;- Original project: &apos;Problem Statement 4- Exception Handling&apos;&#x0D;&#x0A;- Destination element: &apos;Problem statement 4/src/com.bankaccount&apos;&#x0D;&#x0A;- Original element: &apos;BankAccount.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=Problem statement 4/src&lt;com.bankaccount" element1="src/com/problem statement 4.1/BankAccount.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1651128812928" units="0" version="1.0"/>
+</session>
