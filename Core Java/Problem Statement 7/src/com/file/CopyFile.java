@@ -1,5 +1,6 @@
 package com.file;
 
+
 import java.io.Closeable;
 import java.io.File;
 import java.io.FileReader;
@@ -64,4 +65,5 @@ public class CopyFile {
 	        e.printStackTrace();
 	        } 
 	    }
+
 }

@@ -6,7 +6,7 @@ public class ThreadCounter {
 
 	{
 
-	Counter counter = new Counter(25);
+	Counter counter = new Counter(50);
 
 	counter.run();
 
