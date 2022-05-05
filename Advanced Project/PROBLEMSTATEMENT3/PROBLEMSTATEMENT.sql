@@ -1,0 +1,10 @@
+INSERT INTO books values(1,'Let Us C','Yashavant p. kanetkar',200.00,3);
+INSERT INTO books values(2,'Thinking in Java','James Gosling',300.00,5);
+INSERT INTO books values(3,'Computer Networking','James F. Kurose',250.00,2);
+INSERT INTO books values(4,'Head First C#','Andrew Stellman',400.00,4);
+INSERT INTO books values(5,'What is HTML5?','Brett McLaughlin',300.00,6);
+INSERT INTO books values(6,'HTML5 in action','Joe Lennon',569.00,7);
+INSERT INTO books values(7,'OOP with C++','Balaguruswamy',308.00,2);
+INSERT INTO books values(8,'C++:The Complete Reference','Herbert Schildt',532.00,3);
+INSERT INTO books values(9,'Head First SQL','Lynn Beighley',450.00,1);
+INSERT INTO books values(10,'SQL:The complete Reference','James Groff',667.00,1);
